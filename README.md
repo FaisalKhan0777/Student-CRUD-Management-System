@@ -15,9 +15,11 @@ The Student CRUD Management System is a robust Java-based application that demon
 
 # 💻 How to Run the Project
 1.Clone the repository : git clone <repository-link>
+
 2.Configure the database:
 - Create a MySQL database named std.
 - Update the database credentials in the persistence.xml file.
+  
 3.Run the application:
  Use any Java IDE (e.g., IntelliJ IDEA, Eclipse) to run the Controller class.
 
