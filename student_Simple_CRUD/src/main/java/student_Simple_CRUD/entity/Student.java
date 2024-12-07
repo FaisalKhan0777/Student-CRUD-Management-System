@@ -12,7 +12,7 @@ import jakarta.persistence.GenerationType;
 @Entity
 public class Student implements Serializable {
 
-    /**
+    /** @author Faisal khan
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
@@ -69,7 +69,7 @@ public class Student implements Serializable {
     public String getPhone() {
         return phone;
     }
-
+/* @faisal khan*/
     public void setPhone(String phone) {
         this.phone = phone;
     }
